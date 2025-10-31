@@ -1,6 +1,14 @@
 # proyecto_numero_1_mauro_males
-proyecto numero 1 pagina web  mauro males 
-README.md
+app.py
+proyecto_numero_1_mauro_males.py
+templates/
+static/
+contactos.txt
+requirements.txt
+Flask==2.2.5
+gunicorn
+web: gunicorn app:app
+
 
 
 
